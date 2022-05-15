@@ -1,0 +1,59 @@
+﻿<Window x:Class="taxi_ordering.views.PassegersReg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:taxi_ordering.views"
+        mc:Ignorable="d"
+        Title="PassegersReg" Height="450" Width="800">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="36*"/>
+			<RowDefinition Height="45*"/>
+			<RowDefinition Height="36*"/>
+			<RowDefinition Height="44*"/>
+			<RowDefinition Height="36*"/>
+			<RowDefinition Height="44*"/>
+			<RowDefinition Height="61*"/>
+			<RowDefinition Height="49*"/>
+			<RowDefinition Height="68*"/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="43*"/>
+			<ColumnDefinition Width="342*"/>
+			<ColumnDefinition Width="407*"/>
+		</Grid.ColumnDefinitions>
+		<TextBox x:Name="PassegerRegLogin_tb"
+				 Grid.Row="1"
+				 Grid.Column="1" 
+				 FontSize="22" />
+		<TextBox x:Name="PassegerRegPass_tb"
+				 Grid.Row="3"
+				 Grid.Column="1" 
+				 FontSize="22" />
+		<TextBox x:Name="PassegerRegPass2_tb"
+				 Grid.Row="5"
+				 Grid.Column="1" 
+				 FontSize="22" />
+		<Grid Grid.Row="7" Grid.Column="1">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="77*"/>
+				<ColumnDefinition Width="17*"/>
+				<ColumnDefinition Width="77*"/>
+			</Grid.ColumnDefinitions>
+			<Button
+				x:Name="Passegerback_b" 
+				Content="Back"
+				Background="Cyan"
+				FontSize="22"
+				FontFamily="Showcard Gothic"/>
+			<Button
+				x:Name="PassegerReg_b" 
+				Content="Reg"
+				Background="Cyan"
+				FontSize="22"
+				Grid.Column="2"
+				FontFamily="Showcard Gothic"/>
+		</Grid>
+	</Grid>
+</Window>

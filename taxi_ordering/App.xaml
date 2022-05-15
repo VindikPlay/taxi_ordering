@@ -2,8 +2,8 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:taxi_ordering"
-             StartupUri="MainWindow.xaml">
+             StartupUri="views/MainWindow.xaml">
     <Application.Resources>
-         
-    </Application.Resources>
+		<ResourceDictionary Source="Dictionary1.xaml"/>
+	</Application.Resources>
 </Application>

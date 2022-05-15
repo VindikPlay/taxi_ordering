@@ -1,0 +1,17 @@
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering.csproj.AssemblyReference.cache
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\App.g.cs
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering_MarkupCompile.cache
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering_MarkupCompile.lref
+C:\ученики\vindik\taxi_ordering\taxi_ordering\bin\Debug\taxi_ordering.exe.config
+C:\ученики\vindik\taxi_ordering\taxi_ordering\bin\Debug\taxi_ordering.exe
+C:\ученики\vindik\taxi_ordering\taxi_ordering\bin\Debug\taxi_ordering.pdb
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering.g.resources
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering.Properties.Resources.resources
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering.csproj.GenerateResource.cache
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering.csproj.CoreCompileInputs.cache
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering.exe
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\taxi_ordering.pdb
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\Dictionary1.baml
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\App.baml
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\views\MainWindow.g.cs
+C:\ученики\vindik\taxi_ordering\taxi_ordering\obj\Debug\views\MainWindow.baml

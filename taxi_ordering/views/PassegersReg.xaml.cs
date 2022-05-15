@@ -10,17 +10,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace taxi_ordering
+namespace taxi_ordering.views
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для PassegersReg.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class PassegersReg : Window
     {
-        public MainWindow()
+        public PassegersReg()
         {
             InitializeComponent();
         }
